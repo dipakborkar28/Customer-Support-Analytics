@@ -211,3 +211,25 @@ improve service quality and operational efficiency.
 
 this is first ever sql project so this might be not the best 
 but it take one step further to my goal.
+
+## Project Screenshots
+
+### Database Structure
+
+![Database Structure](screenshots/01_database_structure.png)
+
+### Ticket Category Analysis
+
+![Ticket Category Analysis](screenshots/02_ticket_category_analysis.png)
+
+### Agent Resolution Rate
+
+![Agent Resolution Rate](screenshots/03_agent_resolution_rate.png)
+
+### Customer Satisfaction
+
+![Customer Satisfaction](screenshots/04_customer_satisfaction.png)
+
+### Overall Agent Performance
+
+![Overall Agent Performance](screenshots/05_overall_agent_performance.png)
